@@ -1,0 +1,13 @@
+{
+
+"access_token": "your_access_token", 
+
+"access_token_secret": "your_secret_access_token", 
+
+"api_key": "your_api_key", 
+
+"api_key_secret": "your_secret_api_key", 
+
+"bearer_token": "your_bearer_token"
+
+}
